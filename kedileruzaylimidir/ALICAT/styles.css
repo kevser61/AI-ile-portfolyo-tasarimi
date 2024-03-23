@@ -1,0 +1,145 @@
+/* Genel Stil */
+body {
+    background-color: #000; /* Arka plan rengi siyah olarak ayarlanır */
+    background-image: url('uzay.jpg'); /* Arka plan resmi */
+    background-size: cover; /* Arka plan resminin boyutunu kaplamasını sağlar */
+    background-repeat: no-repeat; /* Arka plan resminin tekrarlanmasını önler */
+}
+
+
+    .navbar-brand img {
+        width: 150px; /* Logo genişliği */
+        height: auto; /* Yüksekliği otomatik olarak ayarlar */
+        margin-right: 50px; /* Logo ile yazı arasında 10 piksel sağ boşluk bırakır */
+    }
+    
+    .site-title-wrapper {
+        text-align: center; /* Başlığı ortalar */
+    }
+    
+    .site-title {
+        color: #de90de; /* Başlık rengini lila yapar */
+        font-size: 36px; /* Başlık boyutunu ayarlar */
+    }
+    
+    
+    
+    
+    
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        text-align: right; /* Menü öğelerini sağa hizalar */
+    }
+    
+    li {
+        display: inline;
+        margin-left: 10px; /* Her liste öğesi arasında 10 piksel sol boşluk bırakır */
+    }
+    
+    li:first-child {
+        margin-left: 0; /* İlk liste öğesi için sol boşluk bırakmaz */
+    }
+    
+    
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    
+    .header-content {
+        display: flex;
+        align-items: center;
+    }
+
+    .menu {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .menu li {
+        display: inline;
+    }
+    
+    .menu li:not(:last-child) {
+        margin-right: 20px; /* Menü öğeleri arasında 20 piksel sağ boşluk bırakır */
+    }
+    
+    .site-title {
+        margin-right: 50px; /* Logo ile başlık arasında boşluk bırakır */
+    }
+    
+    
+/* Header */
+
+
+.gallery {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 800px; /* Galeri maksimum genişliği belirlenir */
+    margin: 0 auto; /* Sayfanın ortalanması için */
+}
+
+.image-wrapper {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px; /* Resimler arasında 20 piksel boşluk bırakır */
+}
+
+.image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Resimlerin kare içine sığmasını sağlar */
+}
+
+.image-wrapper {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px; /* Resimler arasında 20 piksel boşluk bırakır */
+    position: relative; /* İçerik üstünde konumlandırma yapabilmek için */
+    overflow: hidden; /* Taşan içerikleri gizler */
+
+    /* Geçiş efekti için varsayılan özellikler */
+    transition: transform 0.3s ease;
+}
+
+/* Resimlerin üzerine gelindiğinde ölçeklenmesi */
+.image-wrapper:hover {
+    transform: scale(1.1); /* Resmin boyutunu büyütür */
+}
+
+.image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Resimlerin kare içine sığmasını sağlar */
+}
+
+.image-wrapper {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px; /* Resimler arasında 20 piksel boşluk bırakır */
+    position: relative; /* İçerik üstünde konumlandırma yapabilmek için */
+    overflow: hidden; /* Taşan içerikleri gizler */
+    border: 2px solid #800080; /* Çerçeve rengi ve kalınlığı */
+    border-radius: 10px; /* Köşelerin yuvarlaklığı */
+
+    /* Geçiş efekti için varsayılan özellikler */
+    transition: transform 0.3s ease;
+}
+
+/* Resimlerin üzerine gelindiğinde ölçeklenmesi */
+.image-wrapper:hover {
+    transform: scale(1.1); /* Resmin boyutunu büyütür */
+}
+
+.image-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Resimlerin kare içine sığmasını sağlar */
+}
+

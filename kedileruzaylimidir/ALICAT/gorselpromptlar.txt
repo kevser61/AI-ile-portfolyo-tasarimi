@@ -1,0 +1,17 @@
+prompt 1 resim1
+uzayda bulunan ilk canlının kedi olduğuna ve uzaylılarla yaşadığına dair bir görsel
+
+prompt2 resim2
+sevimli bir kedi maskesi takan uzaylı bir kedi
+
+prompt 3 resim3
+arkaplanda uzay olan ve uzay gemisi ile gezinen kediye benzer uzaylilar 
+
+prompt 4 resim4
+uzayda dünyayı izleyen uzaylı Kediler
+
+prompt 5  resim5
+uzayda gezinen uzaylı bir kedi
+
+prompt 6  resim6
+kedilerin yaşadıġı bir uzay afişi

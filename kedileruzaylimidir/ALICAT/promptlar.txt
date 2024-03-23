@@ -1,0 +1,42 @@
+prompt 1
+
+Bir ön web geliştiricisi olarak hareket etmenizi istiyorum. 
+Proje için şu araçları kullanarak yeni bir web sitesi kodlayacaksınız: 
+HTML, CSS için CDN'yi kullanan Bootstrap çerçevesi. 
+Web sitesi mobil uyumlu ve duyarlı olmalıdır. 
+Ayrıca düzen ve stil açısından site yapısında Twitter Bootstrap CSS sınıflarının en son sürümünü de içermelidir. 
+HTML, CSS kodlarini ayrı çıktılar olarak vermen önemlidir.
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezinme menüsü de eklemelisiniz. 
+Yazdığınız kodların hiçbirine açıklama yapmayın. 
+Her şeyi anlıyor musun? 
+Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt verin
+
+
+prompt 2
+web sitesi bir porfolio galeri web sitesi ve burada kedi çizimleri paylasmak istiyorum.
+Web sitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir.
+Sayfamın header bölümünde bir logo olmasını istiyorum.
+Sayfanın içeriğinin galeri görünümünde, her bir ızgarada 3 adet olmak üzere 200x200 boyutlarında resimler yer almasını ve burada yer alacak resim içeriğinin kırpılmamasını istiyorum.
+Resimlerin üzerine gelindiginde bir büyüme efektine sahip olması güzel bir detay olur.
+Bana bu web sitesini oluşturmada yardımcı olur musun ?
+
+prompt 3
+web sitesi icin başlığımız "Kediler Uzaylı Olsaydı" olmalı bunun için kodu düzenleyebilir misin?
+logo resmini nasıl ekleyebilirim?
+css kodlarını düzenlemek istiyorum. ilk olarak sayfada yan yana 3 resim olacak seklinde ayarlanmalı 
+2 sutundan oluşmalı
+resimler sayfaya ortalanmalı ve toplam 6 resim içermelidir.
+logoyu sayfanın sol üst köşesinde istiyorum 
+aynı şekilde öneriler , iletişim ve hakkında bölümü sayfanın sağ üst köşesinde olmalı
+
+
+prompt 4 
+sayfa ortasında 3 lu yan yana olacak sekilde kare 200*200 boyutunda 3 resimlik yer olması gerekiyor kodunu verir misin?
+resimler üzerilerine dokunulduğunda öne çıkmalı uygun kodu verir misin?
+logo boyutunu büyütmek istiyorum yardımcı olur musun?
+logo ve yazı arasında boşluk olmalı yardımcı olur musun?
+arka planı uzay şemasına çevirmek istiyorum
+başlığı ortalayıp rengini lila yapmalıyız.
+ekleyeceğim resimlerin çerçeveli olmasını istiyorum .
+
+
