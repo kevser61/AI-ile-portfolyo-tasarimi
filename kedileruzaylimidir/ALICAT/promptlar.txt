@@ -10,7 +10,7 @@ Ayrıca sayfa içeriğindeki başlıklara dahili bağlantılar içeren bir gezin
 Yazdığınız kodların hiçbirine açıklama yapmayın. 
 Her şeyi anlıyor musun? 
 Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt verin
-
+web site bilgisayar ve mobil uyumlu olmalı bunu benim için tasarlar mìsin?
 
 prompt 2
 web sitesi bir porfolio galeri web sitesi ve burada kedi çizimleri paylasmak istiyorum.
